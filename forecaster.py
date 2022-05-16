@@ -232,9 +232,7 @@ def main():
             "CryptoCompare","Forecast"
         ]
     )
-	if page == "CryptoCompare":
-		Homepage()
-	elif page == "Forecast":
+	if page == "Forecast":
 		Forecast()
 if __name__ == "__main__":
     main()
