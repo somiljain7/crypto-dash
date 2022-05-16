@@ -3,7 +3,7 @@ numpy
 matplotlib 
 streamlit 
 pystan 
-fbprophet 
+fbprophet==0.7.1
 cryptocmd 
 plotly
 yfinance
