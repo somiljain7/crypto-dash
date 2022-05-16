@@ -1,0 +1,14 @@
+pandas
+seaborn
+pandas_datareader
+yfinance
+matplotlib
+plotly
+streamlit
+numpy
+matplotlib
+datetime
+cryptocmd
+fbprophet
+plotly.io
+pytrends
