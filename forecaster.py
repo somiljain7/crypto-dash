@@ -229,7 +229,7 @@ def main():
 	page = st.sidebar.selectbox(
         "Select a Page",
         [
-            "CryptoCompare","Forecast"
+           "Forecast"
         ]
     )
 	if page == "Forecast":
