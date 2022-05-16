@@ -2,7 +2,6 @@
 import warnings
 warnings.filterwarnings('ignore')  # Hide warnings
 import pandas as pd
-from IPython import embed
 pd.core.common.is_list_like = pd.api.types.is_list_like
 import seaborn as sns
 from pandas_datareader import data as pdr
