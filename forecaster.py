@@ -4,9 +4,7 @@ warnings.filterwarnings('ignore')  # Hide warnings
 import pandas as pd
 from IPython import embed
 pd.core.common.is_list_like = pd.api.types.is_list_like
-!pip install pandas_datareader
 
-import pandas_datareader.data as web
 import seaborn as sns
 from pandas_datareader import data as pdr
 import yfinance as yf
