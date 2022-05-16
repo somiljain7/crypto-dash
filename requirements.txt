@@ -10,5 +10,4 @@ matplotlib
 datetime
 cryptocmd
 fbprophet
-plotly.io
 pytrends
